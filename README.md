@@ -22,7 +22,17 @@ HOW to save and use?
 - Click Submit.
 - On the next page, click the Use Wizard (or Use) button to apply the skin immediately.
 
+HOW to change / customize banner?
+- The current CSS uses a direct link to a Pinterest image. If you want to use your own image:
+- Find this section in the bkdk ao3 skin.css file:
+        #header {
+                background-image: url('YOUR_IMAGE_URL_HERE');
+                     /* ... */
+         }
 
+- Replace the URL inside the quotes with a direct link to your hosted image (ending in .jpg or .png)
+- If you copy link from Pinterest, right click te image and click "Copy Image Address".
+   
 Disclaimer: This is a fan-made CSS skin and is not officially 
 affiliated with Archive of Our Own, and My Hero Academia. 
 
