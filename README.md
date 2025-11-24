@@ -14,9 +14,9 @@ HOW to create Skin on AO3?
 - Click the Create Site Skin button.
 
 HOW to confirm?
-Type: Select "Site Skin".
-Title: Give your skin a name (for example: "BKDK Dark Mode").
-CSS: Paste the code you copied into the large text box.
+- Type: Select "Site Skin".
+- Title: Give your skin a name (for example: "BKDK Dark Mode").
+- CSS: Paste the code you copied into the large text box.
 
 HOW to save and use?
 - Click Submit.
