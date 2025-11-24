@@ -5,7 +5,7 @@ This skin features a dark mode interface with high-contrast green and orange acc
 
 HOW TO USE THIS????
 - Copy the CSS:
-- Open the bkdk_ao3_skin.css file in this repository and copy all the code.
+- Open the bkdk ao3 skin.css file in this repository and copy all the code.
 
 HOW to create Skin on AO3?
 - Log in to your AO3 account.
