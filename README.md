@@ -1,4 +1,4 @@
-BKDK Fantasy Dark Mode - AO3 Skin
+BKDK Plus Ultra Dark Mode - AO3 Skin
 
 A custom site skin for Archive of Our Own (AO3) inspired by Izuku and Katsuki (BKDK) screencap from the final season.  
 This skin features a dark mode interface with high-contrast green and orange accents, designed for readability and aesthetic appeal desktop users. 
